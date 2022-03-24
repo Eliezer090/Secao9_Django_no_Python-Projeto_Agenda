@@ -1,6 +1,6 @@
 # Seção 9: Django no Python - Projeto Agenda
 Nesta seção do curso foi desenvolvido um peojeto de agenda, foi mais para praticar mesmo o Django e fazer a comunicação do front com o back-end e com a base de dados sqlite3 que já vem por padrão, aprensentado toda a parte de configuração e tudo mais!<br>
-Segue abaico alguns prints do front, lembrando o objetivo nao erra front e sim o back-end!<br>
+Segue abaixo alguns prints do front, lembrando o objetivo não é front e sim o back-end!<br>
 <img src="https://img-c.udemycdn.com/course/240x135/2411816_3802_4.jpg" width="300" title="Capa do curso">
 
 # Imagens
